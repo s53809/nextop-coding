@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nextop-coding", "nextop-coding\nextop-coding.vcxproj", "{5D2A854A-A187-41A1-B90E-E6788D3EE2D5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "동적계획법_보석줍기", "동적계획법_보석줍기\동적계획법_보석줍기.vcxproj", "{823BE71D-53CD-41CC-ADE3-4372573C7FB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{5D2A854A-A187-41A1-B90E-E6788D3EE2D5}.Release|x64.Build.0 = Release|x64
 		{5D2A854A-A187-41A1-B90E-E6788D3EE2D5}.Release|x86.ActiveCfg = Release|Win32
 		{5D2A854A-A187-41A1-B90E-E6788D3EE2D5}.Release|x86.Build.0 = Release|Win32
+		{823BE71D-53CD-41CC-ADE3-4372573C7FB5}.Debug|x64.ActiveCfg = Debug|x64
+		{823BE71D-53CD-41CC-ADE3-4372573C7FB5}.Debug|x64.Build.0 = Debug|x64
+		{823BE71D-53CD-41CC-ADE3-4372573C7FB5}.Debug|x86.ActiveCfg = Debug|Win32
+		{823BE71D-53CD-41CC-ADE3-4372573C7FB5}.Debug|x86.Build.0 = Debug|Win32
+		{823BE71D-53CD-41CC-ADE3-4372573C7FB5}.Release|x64.ActiveCfg = Release|x64
+		{823BE71D-53CD-41CC-ADE3-4372573C7FB5}.Release|x64.Build.0 = Release|x64
+		{823BE71D-53CD-41CC-ADE3-4372573C7FB5}.Release|x86.ActiveCfg = Release|Win32
+		{823BE71D-53CD-41CC-ADE3-4372573C7FB5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
